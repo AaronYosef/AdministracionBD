@@ -158,9 +158,9 @@ END;
 1. Abre Visual Studio y selecciona **"Crear un nuevo proyecto"**.
 2. Elige **"Aplicación web ASP.NET Core MVC"**.
 3. Selecciona la plantilla y haz clic en **Crear**.
-![Logo de Markdown](imagenes/logo.png)
+![Logo de Markdown](/Imagenes/C1.png)
 4. Estructura de Carpetas:
-![Logo de Markdown](imagenes/logo.png)
+![Logo de Markdown](/Imagenes/C2.png)
 5. Colocar tu cadena de conexión correctamente con el Usuario y Base de Datos que fueron creados anteriormente en el archivo de app.settings.json
-![Logo de Markdown](imagenes/logo.png)
+![Logo de Markdown](/Imagenes/C3.png)
 6. Crear un archivo modelo en la carpeta models, un archivo controlador en controllers y en views en Home/index.cshtml puedes modificarlo para crear la presentación de tu proyecto, en la carpeta Shared/Layouts.cshtml puedes modificarlo para cambiar el flujo entre páginas , también puedes modificar los estilos, por ultimo crear una carpeta(en este caso Bd) y adentro un archivo llamado Crear.cshtml para realizar la vista para poder crear bases de datos dinámicamente, realizar este último paso para crear más distintas vistas para tu gestor sql.     
