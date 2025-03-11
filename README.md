@@ -159,7 +159,7 @@ END;
 2. Elige **"Aplicación web ASP.NET Core MVC"**.
 3. Selecciona la plantilla y haz clic en **Crear**.
 ![Logo de Markdown](/Imagenes/C1.png)
-4. Estructura de Carpetas:
+4. Estructura de Carpetas:  
 ![Logo de Markdown](/Imagenes/C2.png)
 5. Colocar tu cadena de conexión correctamente con el Usuario y Base de Datos que fueron creados anteriormente en el archivo de app.settings.json
 ![Logo de Markdown](/Imagenes/C3.png)
